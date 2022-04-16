@@ -1,0 +1,6 @@
+# folders
+windows/.ipynb_checkpoints
+windows/cache
+data/
+
+.DS_Store
