@@ -1,0 +1,14 @@
+matplotlib
+jupyterlab
+pylint
+autopep8
+black
+yapf
+bandit
+flake8
+mypy
+pycodestyle
+typing-extensions>=3.7.4  # for tensorflow 2.6.0
+ipywidgets
+sklearn
+mglearn
