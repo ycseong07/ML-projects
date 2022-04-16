@@ -1,6 +1,6 @@
 # ML/DL Environment for Applie Silicon (M1) MACs
 
-## prerequisite
+## prerequisites
 - vscode, docker
 
 ## How to build env
