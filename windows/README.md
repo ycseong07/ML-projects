@@ -1,6 +1,6 @@
 ## ML/DL Environment for Windows
 
-# prerequisite
+# prerequisites
 - vscode, docker
 
 # How to build env
