@@ -1,4 +1,0 @@
-docker image:
-et2010/jupyter-tensorflow-pytorch-gpu
-
-docker run -it --rm -v C:/Users/wynin/Documents/git/ML-projects/ML_practice:/home/jovyan/work -p 8888:8888 et2010/jupyter-tensorflow-pytorch-gpu
