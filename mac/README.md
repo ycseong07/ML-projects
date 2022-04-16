@@ -1,9 +1,9 @@
-## ML/DL Environment for Applie Silicon (M1) MACs
+# ML/DL Environment for Applie Silicon (M1) MACs
 
-# prerequisite
+## prerequisite
 - vscode, docker
 
-# How to build env
+## How to build env
 1. Pull docker image
 - docker pull sonoisa/deep-learning-coding:pytorch1.9.0_tensorflow2.6.0
 
@@ -18,7 +18,7 @@
 
 6. To use notebook, type 'jupyter lab' in terminal
 
-# Reference pages
+## Reference pages
 - https://qiita.com/sonoisa/items/6d6b4a81169397a96dd8
 - https://medium.com/@dexterwilliams04/getting-started-with-python-3-dev-containers-4f14821fec6b
 - https://github.com/sonoisa/arm64-vscode-deep-learning-project-template
