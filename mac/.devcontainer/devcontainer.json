@@ -28,6 +28,6 @@
 		"ms-python.python"
 	],
 	"forwardPorts": [8888],
-	"postCreateCommand": "pip install -r requirements.txt --no-cache-dir",
+	"postCreateCommand": "pip install -r requirements.txt --no-cache-dir && pip3 install -r requirements_pip3.txt --no-cache-dir ",
 	"remoteUser": "ubuntu",
 }
