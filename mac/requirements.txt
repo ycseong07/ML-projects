@@ -13,3 +13,6 @@ ipywidgets
 sklearn
 mglearn
 tqdm
+xgboost
+lightgbm
+#catboost
