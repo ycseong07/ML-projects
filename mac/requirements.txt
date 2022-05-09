@@ -16,3 +16,5 @@ tqdm
 xgboost
 lightgbm
 #catboost
+torchcam
+spacy
