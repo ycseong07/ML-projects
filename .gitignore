@@ -9,6 +9,8 @@ windows/.ipynb_checkpoints/
 windows/cache/
 mac/.ipynb_checkpoints/
 mac/test_project/cache/
+mac/*/.ipynb_checkpoints/
+mac/*/.data/
 
 
 .DS_Store
